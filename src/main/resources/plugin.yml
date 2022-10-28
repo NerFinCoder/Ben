@@ -1,0 +1,9 @@
+name: Ben
+version: '${project.version}'
+main: me.nerfin.benplugin.Plugin
+authors: [ NerFin ]
+description: Ben plugin
+
+commands:
+  ben:
+    usage: §с/ben <message>
